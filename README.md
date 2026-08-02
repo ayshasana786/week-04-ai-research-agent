@@ -96,7 +96,7 @@ Final Response
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/week-04-ai-research-agent.git
+git clone https://github.com/ayshasana786/week-04-ai-research-agent.git
 ```
 
 Go to the project folder:
